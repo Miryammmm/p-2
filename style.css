@@ -109,3 +109,90 @@ button{
     background-color: black;
     color: white;
 }
+.sections{
+    display: flex;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+ul{
+    list-style: none;
+    cursor: pointer;
+}
+li{
+    margin-left: 10px;
+display: flex;}
+hr{
+    width: 10px;
+}
+    ul{
+        justify-content: space-between;
+        color:rgb(3, 3, 2);
+    }
+    .display{
+        color: rgb(51, 40, 2);
+        background-color:rgb(255, 0, 0);    }
+        .btn{
+           background-color:rgb(255, 255, 255) ; }
+        
+        footer {
+            margin-top: auto;
+            background-color: #ff0000;
+            color: #fff;
+            text-align: center;
+            padding: 20px 10; }
+            footer .copyright {
+                margin-bottom: 10px;
+            }
+            
+            footer .social-links {
+                display: flex;
+                justify-content: center;
+                gap: 15px;
+            }
+            
+            footer .social-links .social-icon img {
+                width: 24px;
+                height: 24px;
+                justify-content: space-between;
+                display: flex;
+            }
+            img{
+                height: 30px;
+            }
+            .listes{
+                background-color: red;
+            }
+            .competences{
+                background-color: red;
+                text-align: center;
+                color: white;
+                font-size: 25px;
+            }
+            footer {
+                margin-top: auto;                color: #fff;
+                text-align: center;
+                padding: 20px 10; }
+                footer .copyright {
+                    margin-bottom: 10px;
+                }
+                
+                footer .social-links {
+                    display: flex;
+                    justify-content: center;
+                    gap: 15px;
+                }
+                
+                footer .social-links .social-icon img {
+                    width: 24px;
+                    height: 24px;
+                    justify-content: space-between;
+                    display: flex;
+                }
+                img{
+                    height: 30px;
+                }
+                .contactsection{
+                    text-align: center;
+                    width: 50%;
+                    margin-left: 25%;
+                }
